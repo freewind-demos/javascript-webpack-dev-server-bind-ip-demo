@@ -1,11 +1,9 @@
-JavaScript Webpack Hello World Demo
-===================================
+JavaScript "webpack-dev-server" Bind Ip Demo
+=============================================
+
+使用`webpack.config.js` -> `devServer` -> `host`来指定，比如可以为`0.0.0.0`
 
 ```
 npm install
-npm start
+npm run demo
 ```
-
-Then open `index.html` in browser
-
-![demo](./images/demo.jpg)
